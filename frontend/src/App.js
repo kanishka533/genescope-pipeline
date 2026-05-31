@@ -613,7 +613,7 @@ function App() {
         </div>
 
         <div className="card mutation">
-          <h3>Mutations</h3>
+          <h3>Sequence Variations</h3>
           <h2>{results.mutations}</h2>
         </div>
 
